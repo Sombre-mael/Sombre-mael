@@ -126,11 +126,26 @@ Livrer quelque chose d’utile avant de chercher quelque chose d’impressionnan
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sombre-mael&show_icons=true&theme=github_dark&hide_border=true" />
+### Contribution graph
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sombre-mael&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sombre-mael&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+
+<br />
+
+### Overview
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sombre-mael&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=GitHub%20Overview" alt="GitHub Overview" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sombre-mael&layout=compact&theme=github_dark&hide_border=true&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+
+<br />
+
+### Consistency
+
+<img src="https://streak-stats.demolab.com?user=Sombre-mael&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
+
 
 ---
 
