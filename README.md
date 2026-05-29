@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sombre Mael
+# Mael Kahilu
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=650&lines=D%C3%A9veloppeur+web+%26+mobile;React+%7C+Next.js+%7C+TypeScript+%7C+React+Native;Je+construis+des+produits+num%C3%A9riques+utiles;Design%2C+logique%2C+structure+et+impact" alt="Typing SVG" />
 
