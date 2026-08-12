@@ -69,72 +69,92 @@ AI            Utiliser l'intelligence artificielle comme accélérateur d'ingén
 
 ## Ce sur quoi je me concentre
 
-```txt
-BUILD
-Web full-stack · Applications mobiles · SaaS · Outils de gestion
+<table>
+<tr>
+<td width="50%" valign="top">
 
-THINK
-Produit · UX · Architecture · Maintenabilité · Business
+### BUILD
 
-SHARPEN
-Next.js · TypeScript · Backend · PostgreSQL · Auth · Sécurité
+**Web full-stack · Mobile · SaaS · Outils métier**
 
-EXPLORE
-Agentic engineering · Automatisation · IA appliquée au développement
-```
+Transformer un besoin en produit utilisable, avec une attention particulière portée à la structure, à l'interface et à l'évolution du produit.
 
----
+</td>
+<td width="50%" valign="top">
+
+### THINK
+
+**Produit · UX · Architecture · Business**
+
+Comprendre ce qui mérite réellement d'être construit avant de choisir comment le construire.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### SHARPEN
+
+**Next.js · TypeScript · Backend · PostgreSQL · Security**
+
+Approfondir mon ingénierie pour construire des systèmes plus fiables, maintenables et proches de la production.
+
+</td>
+<td width="50%" valign="top">
+
+### EXPLORE
+
+**Agentic Engineering · Automatisation · IA**
+
+Explorer comment l'IA peut augmenter les capacités d'un développeur sans remplacer sa responsabilité technique.
+
+</td>
+</tr>
+</table>
 
 ## Engineering × AI
 
-J’utilise Codex comme partenaire d’ingénierie pour accélérer certaines étapes du développement sans lui déléguer la responsabilité technique du produit.
+Je considère l'IA comme une couche supplémentaire dans mon environnement d'ingénierie : elle accélère l'analyse, l'implémentation et la vérification, mais ne remplace pas la décision technique.
 
-```txt
-Besoin
-  │
-  ▼
-Cadrage produit
-  │
-  ▼
-Architecture
-  │
-  ▼
-Implémentation  ◄──── Codex
-  │                   │
-  ▼                   │
-Tests & debug   ◄──────┤
-  │                   │
-  ▼                   │
-Code review     ◄──────┘
-  │
-  ▼
-Validation humaine
-  │
-  ▼
-Itération
+```mermaid
+flowchart LR
+    A[Besoin] --> B[Cadrage produit]
+    B --> C[Architecture]
+    C --> D[Implémentation]
+    D --> E[Tests & Debug]
+    E --> F[Code Review]
+    F --> G[Validation humaine]
+    G --> H[Itération]
+
+    AI[Codex / AI] -. Analyse .-> B
+    AI -. Assistance .-> C
+    AI -. Implémentation .-> D
+    AI -. Debug .-> E
+    AI -. Review .-> F
+
+    G -->|Décision finale| D
 ```
 
-L’IA m’aide à analyser, découper, implémenter, relire, tester et déboguer plus efficacement.
-
-Les décisions d’architecture, les compromis techniques et la validation finale restent sous contrôle humain.
-
----
+<table>
+<tr>
+<td align="center"><strong>AI</strong><br/><sub>Analyse · Génération · Review · Debug</sub></td>
+<td align="center">→</td>
+<td align="center"><strong>Developer</strong><br/><sub>Architecture · Décisions · Validation</sub></td>
+<td align="center">→</td>
+<td align="center"><strong>Product</strong><br/><sub>Fiable · Utile · Maintenable</sub></td>
+</tr>
+</table>
 
 ## Manière de travailler
 
-Je privilégie une logique simple :
-
-```txt
-Clarté        avant complexité.
-Structure     avant accumulation.
-Usage         avant fonctionnalité.
-Fiabilité     avant vitesse apparente.
-Évolution     plutôt que réécriture permanente.
-```
-
-Je préfère une première version cohérente et améliorable à une accumulation de fonctionnalités sans direction produit.
-
----
+|  | Principe | Application |
+|---|---|---|
+| `01` | **Clarté avant complexité** | Une solution compréhensible vaut mieux qu'une architecture impressionnante mais inutile. |
+| `02` | **Structure avant accumulation** | Chaque nouvelle fonctionnalité doit avoir une place logique dans le produit. |
+| `03` | **Usage avant fonctionnalité** | Je construis à partir du besoin utilisateur, pas à partir d'une liste de features. |
+| `04` | **Fiabilité avant vitesse apparente** | Tests, validation et maintenabilité font partie du développement. |
+| `05` | **Évolution plutôt que réécriture** | Une bonne base doit pouvoir grandir sans être reconstruite en permanence. |
 
 ## Collaboration
 
