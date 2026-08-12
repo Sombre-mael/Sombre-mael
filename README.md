@@ -1,31 +1,39 @@
 <div align="center">
 
-# Mael Kahilu
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=900&color=1F6FEB&center=true&vCenter=true&width=650&lines=D%C3%A9veloppeur+web+%26+mobile;React+%7C+Next.js+%7C+TypeScript+%7C+React+Native;Je+construis+des+produits+num%C3%A9riques+utiles;Design%2C+logique%2C+structure+et+impact" alt="Typing SVG" />
+<!-- Hero -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2600&pause=900&color=1F6FEB&center=true&vCenter=true&width=760&lines=Mael+Kahilu;D%C3%A9veloppeur+web+%26+mobile" alt="Mael Kahilu" />
 
 <br />
 
-Développeur web et mobile basé à Lubumbashi.
-Je construis des interfaces modernes, des expériences propres et des produits numériques pensés pour répondre à des besoins réels.
+<p align="center">
+Développeur web & mobile basé à Lubumbashi — j'aide les équipes et les entrepreneurs à transformer des idées en produits numériques utiles et durables.
+</p>
 
 </div>
 
 ---
 
-## Identité
-
-Je ne vois pas le développement seulement comme une suite de lignes de code.
-
-Pour moi, créer un produit numérique, c’est comprendre un problème, organiser une idée, construire une expérience claire, puis donner à l’utilisateur quelque chose de simple, utile et agréable à utiliser.
-
-J’avance avec une vision orientée produit :
-penser l’usage, structurer la solution, soigner l’interface, puis construire une base solide capable d’évoluer.
+<p align="center">
+<a href="#francais">🇫🇷 Français</a> • <a href="#english">🇬🇧 English</a>
+</p>
 
 ---
 
-## Ce qui guide mon travail
+## 🇫🇷 Français {#francais}
 
+### Qui je suis
+Je suis Mael Kahilu, développeur web & mobile. J'aborde chaque produit par la vision produit : comprendre l'usage, structurer la solution, soigner l'interface et livrer une expérience fiable et évolutive.
+
+Portfolio : https://maeldev.qzz.io/  
+GitHub : https://github.com/Sombre-mael
+
+### Ma méthode
+- Comprendre le problème avant de coder.
+- Structurer des solutions propres et maintenables.
+- Prioriser l'utilité et l'expérience utilisateur.
+- Livrer rapidement des itérations testables et améliorables.
+
+### Principes
 ```txt
 Clarté        Rendre les interfaces simples à comprendre.
 Structure     Construire des bases propres et maintenables.
@@ -34,121 +42,91 @@ Design        Donner confiance dès les premières secondes.
 Progression   Apprendre, améliorer, corriger et construire avec méthode.
 ```
 
----
-
-## Stack principale
-
+### Stack — Outils & Tech
 <div align="center">
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
 <br />
-
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-
-<br />
-
 <img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
-<img src="https://img.shields.io/badge/Laravel-1F2937?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-
 </div>
 
----
+### Domaines d'intérêt
+- Produit numérique — transformer une idée en solution concrète.
+- Interfaces — expériences propres et intuitives.
+- Mobile — apps accessibles et utiles.
+- Business local, Éducation, Outils de gestion.
 
-## Domaines qui m’intéressent
+### En apprentissage
+- Next.js avancé (SSR / ISR / performances)
+- TypeScript et architecture front
+- React Native & Expo
+- Supabase / PostgreSQL
+- Authentification & déploiement pro
+- UX / Design d'interface
 
+### Projets récents
+(Section volontairement masquée — demandée : ne pas insérer les projets ici. Si tu changes d'avis, je peux insérer automatiquement les projets depuis ton portfolio.)
+
+### Activité GitHub
 <div align="center">
-
-| Produit numérique                         | Interface utilisateur                       | Mobile                                            |
-| ----------------------------------------- | ------------------------------------------- | ------------------------------------------------- |
-| Transformer une idée en solution concrète | Créer des expériences propres et intuitives | Construire des applications accessibles et utiles |
-
-| Business local                | Éducation                        | Gestion                               |
-| ----------------------------- | -------------------------------- | ------------------------------------- |
-| Digitaliser des besoins réels | Créer des outils d’apprentissage | Simplifier l’organisation et le suivi |
-
-</div>
-
----
-
-## En apprentissage continu
-
-Je renforce actuellement mes compétences sur :
-
-```txt
-Next.js avancé
-TypeScript propre
-Architecture frontend
-React Native avec Expo
-Supabase et PostgreSQL
-Authentification
-Déploiement professionnel
-Expérience utilisateur
-```
-
-L’objectif est simple : construire des projets plus solides, mieux structurés et plus proches d’un vrai niveau production.
-
----
-
-## Ma vision
-
-Je veux évoluer comme développeur capable de créer des solutions numériques sérieuses, utiles et bien pensées.
-
-Je crois au potentiel de la technologie pour créer de la valeur localement, surtout dans des environnements où beaucoup de besoins restent encore peu digitalisés.
-
-Mon ambition est de construire des produits qui ne sont pas seulement beaux, mais qui peuvent réellement servir des personnes, des entreprises, des écoles, des commerces et des organisations.
-
----
-
-## Ligne directrice
-
-<div align="center">
-
-```txt
-Comprendre avant de construire.
-Structurer avant d’ajouter.
-Améliorer avant de multiplier.
-Livrer quelque chose d’utile avant de chercher quelque chose d’impressionnant.
-```
-
-</div>
-
----
-
-## GitHub activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sombre-mael&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
-
-<br />
-<br />
-
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sombre-mael&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity" />
+<br /><br />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sombre-mael&theme=github_dark" alt="GitHub profile details" />
-
-<br />
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sombre-mael&theme=github_dark" alt="Repos per language" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sombre-mael&theme=github_dark" alt="Most commit language" />
-
 </div>
+
+### Contact
+- Portfolio : https://maeldev.qzz.io/  
+- GitHub : https://github.com/Sombre-mael  
+- Email : (ajoute ton email ici)
 
 ---
 
-## Contact
+## 🇬🇧 English {#english}
 
-<div align="center">
+### Who I am
+I'm Mael Kahilu — a web & mobile developer based in Lubumbashi. I help teams and entrepreneurs turn ideas into useful, maintainable digital products by combining product thinking, clean interfaces and solid foundations.
 
-Portfolio : [sombre-mael.github.io/Mon-Portfolio](https://sombre-mael.github.io/Mon-Portfolio/)
-GitHub : [github.com/Sombre-mael](https://github.com/Sombre-mael)
+Portfolio: https://maeldev.qzz.io/  
+GitHub: https://github.com/Sombre-mael
 
-</div>
+### My approach
+- Understand the problem before coding.
+- Structure maintainable and testable solutions.
+- Prioritize user value and UX.
+- Deliver fast, iterated, production-ready work.
+
+### Principles
+Clarity · Structure · Usefulness · Design · Continuous improvement
+
+### Core stack
+React · Next.js · TypeScript · React Native · Expo · Tailwind · Supabase
+
+### Interests
+Product design, UI/UX, Mobile applications, Local business solutions, Education, Management tools.
+
+### Learning
+Advanced Next.js, TypeScript best practices, Frontend architecture, React Native with Expo, Supabase & PostgreSQL, Authentication & deployment, UX.
+
+### Recent projects
+(Projects intentionally omitted — available on the portfolio.)
+
+### GitHub activity
+(the same activity graphs shown above)
+
+### Contact
+- Portfolio: https://maeldev.qzz.io/  
+- GitHub: https://github.com/Sombre-mael  
+- Email: (add your email here)
+
+---
+
+If you want a stronger visual polish (hero illustration, custom SVG, project cards with screenshots, animated badges), I can:
+- ajouter une illustration personnalisée (undraw / SVG) en haut,
+- ajouter un badge "Hire me" or "Available for work",
+- ajouter des mini-cards de contact (LinkedIn, Email, Portfolio),
+- ou générer une branche + PR contenant README + assets (images) prêts à merger.
